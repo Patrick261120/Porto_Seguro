@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from multiprocessing import *
 from functools import partial
+#patrick
 
 def recon(reg):
     integer = int(np.round((40*reg)**2)) 
